@@ -146,7 +146,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,6 +163,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
